@@ -1,0 +1,3 @@
+The permutation outputs are saved in an RData file and 
+because they are cumbersome to run, it is best to load them. Due to the file limit in Github,
+I am not able to store them in GitHub, but can provide these files: email dp495@cornell.edu (Damie Pak)
